@@ -281,7 +281,7 @@ body {
 }
 
 .content__order .content__order-inner .content__order-slider .slider .slick-carusel.slick-initialized.slick-slider .slick-prev::before {
-  content: url(/img/btn-prev.svg);
+  content: url(../img/btn-prev.svg);
 }
 
 .content__order .content__order-inner .content__order-slider .slider .slick-carusel.slick-initialized.slick-slider .slick-next {
@@ -292,7 +292,7 @@ body {
 }
 
 .content__order .content__order-inner .content__order-slider .slider .slick-carusel.slick-initialized.slick-slider .slick-next::before {
-  content: url(/img/btn-next.svg);
+  content: url(../img/btn-next.svg);
 }
 
 .reviews {

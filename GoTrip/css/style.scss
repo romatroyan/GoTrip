@@ -250,7 +250,7 @@
 								left: -27px;
 
 								&::before{
-									content: url(/img/btn-prev.svg);
+									content: url(../img/btn-prev.svg);
 								}
 
 							}
@@ -259,7 +259,7 @@
 								transform: translateY(-50%);
 								right:-27px;
 								&::before{
-									content: url(/img/btn-next.svg);
+									content: url(../img/btn-next.svg);
 								}
 							}
 						
